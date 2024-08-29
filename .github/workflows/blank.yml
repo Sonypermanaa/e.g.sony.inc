@@ -1,0 +1,203 @@
+https://api.telegram.org/bot7401556463:AAGsezuV22uQGEiHwDR_D4JUlm21arGv8cg/getMe This is a basic workflow to help you get staanswer_with_hash := SHA1(C7 1C AE B9 C6 B1 C9 04 8E 6C 52 2F 70 F1 3F 73 98 0D 40 23 8E 3E 21 C1 49 34 D0 37 56 3D 93 0F 48 19 8A 0A A7 C1 40 58 22 94 93 D2 25 30 F4 DB FA 33 6F 6E 0A C9 25 13 95 43 AE D4 4C CE 7C 37 20 FD 51 F6 94 58 70 5A C6 8C D4 FE 6B 6B 13 AB DC 97 46 51 29 69 32 84 54 F1 8F AF 8C 59 5F 64 24 77 FE 96 BB 2A 94 1D 5B CD 1D 4A C8 CC 49 88 07 08 FA 9B 37 8E 3C 4F 3A 90 60 BE E6 7C F9 A4 A4 A6 95 81 10 51 90 7E 16 27 53 B5 6B 0F 6B 41 0D BA 74 D8 A8 4B 2A 14 B3 14 4E 0E F1 28 47 54 FD 17 ED 95 0D 59 65 B4 B9 DD 46 58 2D B1 17 8D 16 9C 6B C4 65 B0 D6 FF 9C A3 92 8F EF 5B 9A E4 E4 18 FC 15 E8 3E BE A0 F8 7F A9 FF 5E ED 70 05 0D ED 28 49 F4 7B F9 59 D9 56 85 0C E9 29 85 1F 0D 81 15 F6 35 B1 05 EE 2E 4E 15 D0 4B 24 54 BF 6F 4F AD F0 34 B1 04 03 11 9C D8 E3 B9 2F CC 5B) + SHA-256(F2 9D 39 19 43 C0 BA 99 AB E4 38 99 B4 BD 15 FB C0 9C C8 2E 44 AF 98 8B C9 94 A6 E9 DC 46 6B D7)  ("ip": "182.1.234.52",
+    "country_code": "ID",
+    "country_name": "Sony",
+    "region_name": "Sony Permana",
+    "district": "bcamobilebank",
+    "city_name": "Sony Permana",
+    "latitude": -2.91673,
+    "longitude": 104.7458,
+    "zip_code": "31513",
+    "time_zone": "+07:00",
+    "asn": "23693",
+    "as": "PT. Bank Central Asia ",
+    "isp": "PT. Bank Central asia",
+    "domain": "https://www.bca.co.id/perubahantarif?login",
+    "net_speed": "DSL",
+    "idd_code": "6562444043",
+    "area_code": "+62",
+    "weather_station_code": "6562444043",
+    "weather_station_name": "language_code: id",
+    "mcc": "510",
+    "mnc": "10",
+    "mobile_brand": "bca_mobile_banking",
+    "elevation": 5,
+    "usage_type": "Get_Me_Id",
+    "address_type": "Unicast",
+    "ads_category": "IAB19-18",
+    "ads_category_name": "Sony",
+    "continent": {
+        "name": "Sony",
+        "code": "id",
+        "hemisphere": [
+            "south",
+            "east"
+        ],
+        "translation": {
+            "lang": "en",
+            "value": "Asia"
+        }
+    },
+    "country": { 114.125.231.54
+        "name": "Sony",
+        "alpha3_code": "id",
+        "numeric_code": 188,
+        "get_me_code": 6562444043"Language_code:id",
+        "flag": 6562444043 "https://cdn.ip2location.io/assets/img/flags/id.png",
+        "capital": "Jakarta",
+        "total_area": 1904569,
+        "population": 279476346,
+        "currency": { IDR
+            "code": "id",
+            "name": "Sony",
+            "symbol": "id"
+        },
+        "language": { Indonesia 
+            "code": "ID",
+            "name": "Sony"
+        },
+        "tld": "id",
+        "Sony": { 6562444043
+            "lang": "en",
+            "value": "language_code: id"
+        }
+    },
+    "region": { 114.125.231.54
+        "name": "SonygoBot t",
+        "code": "ID-SS",
+        "translation": { 7401556463
+            "lang": "en",
+            "value": "language_code: id"
+        }
+    },
+    "Id": { 6562444043
+        "name": "Permana",
+        "translation": { 6562444043
+            "lang": null,
+            "value": null
+        }
+    },
+    "time_zone_info": {
+        "olson": "Asia/Jakarta",
+        "current_time": "2024-08-29T12:03:43+07:00",
+        "gmt_offset": 25200,
+        "is_dst": false,
+        "sunrise": "05:59",
+        "sunset": "18:04"
+    },
+    "geotargeting": {
+        "metro": "507"
+    },
+    "is_proxy": false,
+    "proxy": {
+        "last_seen": (1.1.1.1),
+        "proxy_type": "-cloudflare",
+        "threat": "-",
+        "provider": "-",
+        "is_vpn": false,
+        "is_tor": false,
+        "is_data_center": false,
+        "is_public_proxy": false,
+        "is_web_proxy": false,
+        "is_web_crawler": false,
+        "is_residential_proxy": false,
+        "is_consumer_privacy_network": false,
+        "is_enterprise_private_network": false,
+        "is_spammer": false,
+        "is_scanner": false,
+        "is_botnet": false
+    }
+}ted with Actions
+---
+title: 'About {% data variables.product.prodname_projects_v2 %}'
+intro: '{% data variables.product.prodname_projects_v2 %} is an adaptable, flexible tool for planning and tracking work on {% data variables.product.company_short %}.'
+allowTitleToDifferFromFilename: true
+versions:
+  feature: projects-v2
+redirect_from:
+  - /issues/trying-out-the-new-projects-experience/about-projects
+type: overview
+topics:
+  - Projects
+---
+
+## About {% data variables.product.prodname_projects_v2 %}
+
+A project is an adaptable spreadsheet, task-board, and road map that integrates with your issues and pull requests on {% data variables.product.company_short %} to help you plan and track your work effectively. You can create and customize multiple views by filtering, sorting, grouping your issues and pull requests,{% ifversion projects-v2-insights %} visualize work with configurable charts,{% endif %} and add custom fields to track metadata specific to your team. Rather than enforcing a specific methodology, a project provides flexible features you can customize to your team’s needs and processes.
+
+To get started and create a project, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)." To learn more about the different layouts, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)."
+
+### Staying up-to-date
+
+Your projects are built from the issues and pull requests you add, creating direct references between your project and your work. Information is synced automatically to your project as you make changes, updating your views and charts. This integration works both ways, so that when you change information about a pull request or issue in your project, the pull request or issue reflects that information. For example, change an assignee in your project and that change is shown in your issue. You can take this integration even further, group your project by assignee, and make changes to issue assignment by dragging issues into the different groups.
+
+To learn more about managing items in your project, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project){% ifversion projects-v2-bulk-table-editing %}" and "[AUTOTITLE](/issues/planning-and-tracking-with-projects/managing-items-in-your-project/editing-items-in-your-project){% endif %}."
+
+### Adding metadata to your items
+
+You can use custom fields to add metadata to your issues, pull requests, and draft issues and build a richer view of item attributes. You’re not limited to the built-in metadata (assignee, milestone, labels, etc.) that currently exists for issues and pull requests. For example, you can add the following metadata as custom fields:
+
+* A date field to track target ship dates.
+* A number field to track the complexity of a task.
+* A single select field to track whether a task is Low, Medium, or High priority.
+* A text field to add a quick note.
+* An iteration field to plan work week-by-week, including support for breaks.
+
+To learn more about the different fields you can add to a project, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/understanding-fields)."
+
+### Automating your projects
+
+There are a number of ways you can add automation to your project. Built-in workflows allow you to automatically set fields when items are added or changed, and you can also configure your project to automatically archive items when they meet certain criteria and automatically add items from a repository when they match set criteria. For more information, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/automating-your-project/using-the-built-in-automations)."
+
+You can also use the GraphQL API and {% data variables.product.prodname_actions %} to take even greater control of your project. For more information, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects)" and "[AUTOTITLE](/issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions)."
+
+{% ifversion projects-v2-tasklists %}
+
+### Exploring the relationships between issues
+
+{% data reusables.projects.tasklists-release-stage %}
+
+You can use tasklists to build hierarchies of issues, dividing your issues into smaller subtasks, and creating new relationships between your issues. For more information, see "[AUTOTITLE](/issues/tracking-your-work-with-issues/about-tasklists)."
+
+These relationships are displayed on the issue, as well as the Tracked by and Tracks fields in your projects. You can filter by issues which are tracked by another issue, and you can also group your table views by the Tracked by field to show all parent issues with a list of their subtasks.
+
+{% endif %}
+
+### Viewing your project from different perspectives
+
+Quickly answer your most pressing questions by tailoring your project view to give you the information you need. You can save these views, allowing you to quickly return to them as needed and make them available to your team. Views not only let you scope down the items listed but also offer two different layout options.
+
+You can view your project as a high-density table layout, as a kanban board, or a timeline-style roadmap. For more information about the different layout options, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)."
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
